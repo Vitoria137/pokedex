@@ -1,0 +1,15 @@
+body{
+display: flex;
+flex-direction: column;
+gap: 30px;
+align-items: center;
+}
+
+img{
+    width: 10%;
+}
+
+.btn{
+    display: flex;
+    gap: 15px;
+}
